@@ -1,2 +1,0 @@
-JMetaStripper-Java
-==================
